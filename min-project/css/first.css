@@ -1,0 +1,83 @@
+
+.sbox{
+    font-family: 'Times New Roman';
+        width: 350px;
+       
+        background: #00609C;
+        border:2px solid black;
+        margin-top: 10px;
+        margin-left: 430px ;
+        color: white;
+        font-size: 16px;
+        padding: 10px;
+        border-bottom-left-radius: 5px;
+        border-top-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+      
+    }
+    h1 strong{
+        margin-left:127px;
+    }
+    .but{
+        font-family:'Times New Roman';
+       font-weight: bold;
+       border-radius: 5px;
+       background-color:white;
+       color:black;
+       margin-left:130px;
+       padding:5px;
+       width:80px;
+    }
+    form input{
+        width:200px;
+        margin-left:100px;
+    }
+    .sbox1{
+        font-family: 'Times New Roman';
+            width: 350px;
+            height:300px;
+         
+            background: #00609C;
+            border:2px solid black;
+            margin-top: 65px;
+            margin-left: 430px ;
+            color:white;
+            font-size: 16px;
+            padding: 10px;
+            border-bottom-left-radius: 5px;
+            border-top-left-radius: 5px;
+            border-bottom-right-radius: 5px;
+            border-top-right-radius: 5px;
+            position: fixed;
+        }
+    .box{
+        font-family: 'Times New Roman';
+        width: 500px;
+        height: 410px;
+        background: #00609C;
+        border:2px solid black;
+        margin-top: 10px;
+        margin-left: 300px ;
+        color: white;
+        font-size: 16px;
+        padding: 10px;
+        border-bottom-left-radius: 5px;
+        border-top-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+        position: fixed;
+    }
+    .bu{
+        font-family:'Times New Roman';
+       font-weight: bold;
+       border-radius: 3px;
+       background-color:white;
+       color:black;
+       margin-left:330px;
+       padding:3px;
+       width:80px;
+    }
+    
+  
+        
